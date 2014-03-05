@@ -1,0 +1,8 @@
+== README
+
+
+This is rails4 project, uses mysql db.
+
+In this repo, I'm taking the pg_data_encoder https://github.com/pbrumm/pg_data_encoder and postgres-copy https://github.com/diogob/postgres-copy  gems
+and trying to modify them to import csv files to a binary file - to mysql db. 
+pg_data_encoder gem creates a binary data file that can be imported into postgres's copy from command.
